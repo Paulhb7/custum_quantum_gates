@@ -1,4 +1,5 @@
-// Generalized Entangler Gate
+# Generalized Entangler Gate: Creates a uniform superposition across all basis states by applying Hadamard gates to all qubits. 
+# Useful for state initialization in quantum algorithms.
 
 from qiskit import QuantumCircuit, Aer, execute
 from qiskit.circuit import Gate
